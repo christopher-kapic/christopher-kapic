@@ -28,29 +28,6 @@
 [<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />]
 [<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />]
 
-<br />
-<br />
-
----
-
-<details>
-  <summary>:zap: GitHub Stats</summary>
-
-  <img align="left" alt="christopher-kapic's GitHub Stats" src="https://github-readme-stats.christopher-kapic.vercel.app/api?username=christopher-kapic&show_icons=true&hide_border=true" />
-
-</details>
-
-[website]: https://christopherkapic.com
-<!-- [course]: http://vsCodeHero.com -->
-[twitter]: https://twitter.com/kapichristopher
-<!-- [youtube]: https://youtube.com/codeSTACKr -->
-[instagram]: https://instagram.com/christopher.kapic/
-[linkedin]: https://linkedin.com/in/christopher-kapic/
-<!-- [webdevplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt
-[jsplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALRJKu7wfXby3MKeflhTu6B
-[cssplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALSdvZuEh6gqQdmDoDIoqz4
-[reactplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAK4TdffpxKY3QGyHCpxFcQ0 -->
-
 <!--
 **christopher-kapic/christopher-kapic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
