@@ -2,6 +2,7 @@
 
 [![Website](https://img.shields.io/website?label=blog.christopherkapic.com&style=for-the-badge&url=https://blog.christopherkapic.com)](https://blog.christopherkapic.com)
 [![Twitter Follow](https://img.shields.io/twitter/follow/kapichristopher?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fkapichristopher&screen_name=kapichristopher)
+[Mastodon](https://mastodon.flexnation.xyz/@christopherkapic)
 
 ## I'm a math and computer science student.
 
