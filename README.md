@@ -8,6 +8,7 @@
 A website to calculate the hypothetical price of stock options using an intuitive graphing interface.
 
 <br>
+
 #### [Kapic Math](https://math.christopherkapic.com/)
 An open-source collection of definitions and theorems from math.
 
