@@ -1,5 +1,7 @@
 ### Hi there, I'm Christopher Kapic! 👋
 
+#### [Resume](https://storage.googleapis.com/christopherkapicpdfs01/resume_kapic.pdf)
+
 [![Website](https://img.shields.io/website?label=blog.christopherkapic.com&style=for-the-badge&url=https://blog.christopherkapic.com)](https://blog.christopherkapic.com)
 
 [![Website](https://img.shields.io/website?label=math.christopherkapic.com&style=for-the-badge&url=https://math.christopherkapic.com)](https://math.christopherkapic.com)
@@ -22,9 +24,6 @@ An open-source collection of definitions and theorems from math.
 [<img align="left" alt="Christopher Kapic | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/christopher-kapic/)
 [<img align="left" alt="Christopher Kapic | E-Mail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />](mailto:christopherkapic@gmail.com)
 
-<br>
-
-#### [Resume](https://storage.googleapis.com/christopherkapicpdfs01/resume_kapic.pdf)
 
 <!-- <br /> -->
 
