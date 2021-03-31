@@ -7,12 +7,12 @@
 [![Website](https://img.shields.io/website?label=math.christopherkapic.com&style=for-the-badge&url=https://math.christopherkapic.com)](https://math.christopherkapic.com)
 
 ## Current Projects
-#### [TickerTab](https://tickertab.io/)
+#### [TickerTab](https://tickertab.io/) 💵
 A website to calculate the hypothetical price of stock options using an intuitive graphing interface.
 
 <br>
 
-#### [Kapic Math](https://math.christopherkapic.com/)
+#### [Kapic Math](https://math.christopherkapic.com/) 💯
 An open-source collection of definitions and theorems from math.
 
 <br>
