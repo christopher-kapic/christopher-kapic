@@ -1,6 +1,7 @@
 ### Hi there, I'm Christopher Kapic! 👋
 
 [![Website](https://img.shields.io/website?label=blog.christopherkapic.com&style=for-the-badge&url=https://blog.christopherkapic.com)](https://blog.christopherkapic.com)
+
 [![Website](https://img.shields.io/website?label=math.christopherkapic.com&style=for-the-badge&url=https://math.christopherkapic.com)](https://math.christopherkapic.com)
 
 ## Current Projects
@@ -11,6 +12,8 @@ A website to calculate the hypothetical price of stock options using an intuitiv
 
 #### [Kapic Math](https://math.christopherkapic.com/)
 An open-source collection of definitions and theorems from math.
+
+<br>
 
 ### Connect with me:
 
