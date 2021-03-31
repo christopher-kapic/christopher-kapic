@@ -1,10 +1,10 @@
 ### Hi there, I'm Christopher Kapic! 👋
 
 #### [Resume](https://storage.googleapis.com/christopherkapicpdfs01/resume_kapic.pdf) 📝
+<!-- [![Website](https://img.shields.io/website?label=blog.christopherkapic.com&style=for-the-badge&url=https://blog.christopherkapic.com)](https://blog.christopherkapic.com) -->
+<!-- [![Website](https://img.shields.io/website?label=math.christopherkapic.com&style=for-the-badge&url=https://math.christopherkapic.com)](https://math.christopherkapic.com) -->
 
-[![Website](https://img.shields.io/website?label=blog.christopherkapic.com&style=for-the-badge&url=https://blog.christopherkapic.com)](https://blog.christopherkapic.com)
-
-[![Website](https://img.shields.io/website?label=math.christopherkapic.com&style=for-the-badge&url=https://math.christopherkapic.com)](https://math.christopherkapic.com)
+#### [Blog](https://blog.christopherkapic.com/) 🖋
 
 ## Current Projects
 #### [TickerTab](https://tickertab.io/) 📈
