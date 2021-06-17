@@ -1,8 +1,6 @@
 ### Hi there, I'm Christopher Kapic! 👋
 
 #### [Resume](https://blog.kapic.io/assets/PDF/Christopher_Kapic_Resume_(Lucario).pdf) | ([Print Version](https://storage.googleapis.com/christopherkapicpdfs01/resume_kapic.pdf)) 📝
-<!-- [![Website](https://img.shields.io/website?label=blog.christopherkapic.com&style=for-the-badge&url=https://blog.christopherkapic.com)](https://blog.christopherkapic.com) -->
-<!-- [![Website](https://img.shields.io/website?label=math.christopherkapic.com&style=for-the-badge&url=https://math.christopherkapic.com)](https://math.christopherkapic.com) -->
 
 #### [Blog](https://blog.kapic.io/) 🖋
 
@@ -12,7 +10,7 @@ A website to calculate the hypothetical price of stock options using an intuitiv
 
 
 <!-- #### [Kapic Math](https://math.christopherkapic.com/) 💯
-An open-source collection of definitions and theorems from math. --
+An open-source collection of definitions and theorems from math. -->
 
 <br>
 
@@ -27,6 +25,12 @@ An open source cookbook website maintained by Luke Smith with minimal spyware.
 
 #### [favicon.io](https://favicon.io/) 🔵
 A free favicon generator.
+
+#### [free-for-dev](https://free-for.dev/)
+A list of software (SaaS, PaaS, IaaS, etc.) and other offerings that have free tiers for developers. [repo](https://github.com/ripienaar/free-for-dev)
+
+#### [awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted)
+A list of Free Software network services and web applications which can be hosted locally. [repo](https://github.com/awesome-selfhosted/awesome-selfhosted)
 
 <br>
 
