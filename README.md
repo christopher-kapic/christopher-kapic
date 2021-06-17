@@ -11,8 +11,8 @@
 A website to calculate the hypothetical price of stock options using an intuitive graphing interface.
 
 
-#### [Kapic Math](https://math.christopherkapic.com/) 💯
-An open-source collection of definitions and theorems from math.
+<!-- #### [Kapic Math](https://math.christopherkapic.com/) 💯
+An open-source collection of definitions and theorems from math. --
 
 <br>
 
