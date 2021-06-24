@@ -20,6 +20,9 @@ An open-source collection of definitions and theorems from math. -->
 <br>
 
 ## These are a few of my favorite things
+#### [Netlify](https://www.netlify.com/)
+Free hosting of static sites with automatic updates (according to your git repo). Also can handle authentication, serverless functions, and more.
+
 #### [based.cooking](https://based.cooking/) 🍳
 An open source cookbook website maintained by Luke Smith with minimal spyware.
 
