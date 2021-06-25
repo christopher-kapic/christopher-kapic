@@ -2,6 +2,7 @@
 
 #### [Resume](https://blog.kapic.io/assets/PDF/Christopher_Kapic_Resume_(Lucario).pdf) | ([Print Version](https://storage.googleapis.com/christopherkapicpdfs01/resume_kapic.pdf)) 📝
 
+
 #### [Blog](https://blog.kapic.io/) 🖋
 
 ## Current Projects
