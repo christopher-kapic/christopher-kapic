@@ -35,6 +35,9 @@ A list of software (SaaS, PaaS, IaaS, etc.) and other offerings that have free t
 #### [awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted)
 A list of Free Software network services and web applications which can be hosted locally. [repo](https://github.com/awesome-selfhosted/awesome-selfhosted)
 
+#### [Plausible Analytics](https://plausible.io/)
+A self-hosted analytics tool.
+
 <br>
 
 ### Connect with me:
