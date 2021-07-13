@@ -50,6 +50,8 @@ An open-source collection of definitions and theorems from math. -->
 [<img align="left" alt="Christopher Kapic | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/christopher-kapic/)
 [<img align="left" alt="Christopher Kapic | E-Mail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />](mailto:christopherkapic@gmail.com)
 
+<br>
+
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
