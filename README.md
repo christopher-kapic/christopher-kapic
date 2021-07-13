@@ -45,7 +45,7 @@ An open-source collection of definitions and theorems from math. -->
 
 ### Connect with me:
 
-[<img align="left" alt="blog.kapic.io" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][https://blog.kapic.io]
+[<img align="left" alt="blog.kapic.io" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />](https://blog.kapic.io)
 [<img align="left" alt="Christopher Kapic | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />](https://www.youtube.com/channel/UCuXgDzDJhNAwvzvc62GnYwA?view_as=subscriber)
 [<img align="left" alt="Christopher Kapic | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/christopher-kapic/)
 [<img align="left" alt="Christopher Kapic | E-Mail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />](mailto:christopherkapic@gmail.com)
