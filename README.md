@@ -34,10 +34,8 @@ An open-source collection of definitions and theorems from math. -->
 
 ### These are a few of my favorite things
  - [favicon.io](https://favicon.io/) - free favicon generator.
- - [free-for-dev](https://free-for.dev/) - list of software (SaaS, PaaS, IaaS, etc.) and other offerings that have free tiers for developers. 
-<!-- [repo](https://github.com/ripienaar/free-for-dev) -->
- - [awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - list of Free Software network services and web applications which can be hosted locally.
-<!-- [repo](https://github.com/awesome-selfhosted/awesome-selfhosted) -->
+ - [free-for-dev](https://free-for.dev/) - list of software (SaaS, PaaS, IaaS, etc.) and other offerings that have free tiers for developers.  <!-- [repo](https://github.com/ripienaar/free-for-dev) -->
+ - [awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - list of Free Software network services and web applications which can be hosted locally. <!-- [repo](https://github.com/awesome-selfhosted/awesome-selfhosted) -->
  - [Plausible Analytics](https://plausible.io/) - self-hosted analytics tool.
  - [CapRover](https://caprover.com/) - self-hosted PaaS. I have found it useful for learning Docker and Docker Compose.
  - [Vultr](https://www.vultr.com/?ref=8752906) (referral link) - the cloud host I use for the majority of my server needs.
