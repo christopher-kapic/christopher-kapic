@@ -38,7 +38,7 @@ An open-source collection of definitions and theorems from math. -->
  - [awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - List of Free Software network services and web applications which can be hosted locally. <!-- [repo](https://github.com/awesome-selfhosted/awesome-selfhosted) -->
  - [Plausible Analytics](https://plausible.io/) - Self-hosted analytics tool.
  - [CapRover](https://caprover.com/) - Self-hosted PaaS. I have found it useful for learning Docker and Docker Compose.
- - [Vultr](https://www.vultr.com/?ref=8752906) (referral link) - the cloud host I use for the majority of my server needs.
+ - [Vultr](https://www.vultr.com/?ref=8752906) (referral link) - The cloud host I use for the majority of my server needs.
  - [Fireship](https://fireship.io/) - Jeff... you did well. Thank you.
  - [Filebase](https://filebase.com/) - Blockchain S3 ($5.99/TB/Month)
 
