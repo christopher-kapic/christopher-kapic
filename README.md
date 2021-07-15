@@ -40,6 +40,7 @@ An open-source collection of definitions and theorems from math. -->
  - [CapRover](https://caprover.com/) - self-hosted PaaS. I have found it useful for learning Docker and Docker Compose.
  - [Vultr](https://www.vultr.com/?ref=8752906) (referral link) - the cloud host I use for the majority of my server needs.
  - [Fireship](https://fireship.io/) - Jeff... you did well. Thank you.
+ - [Filebase](https://filebase.com/) - Blockchain S3 ($5.99/TB/Month)
 
 <br>
 
