@@ -1,4 +1,5 @@
 ### Hi there, I'm Christopher Kapic! 👋
+<div style="text-align: center"><h3>Hi there, I'm Christopher Kapic! 👋</h3></div>
 
 [![Website](https://img.shields.io/website?label=blog.kapic.io&style=for-the-badge&url=https%3A%2F%2Fblog.kapic.io)](https://blog.kapic.io?ref=github)
 
