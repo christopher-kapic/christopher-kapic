@@ -65,7 +65,6 @@ An open-source collection of definitions and theorems from math. -->
 
 ➡️ [more blog posts...](https://blog.kapic.io)
 
-<br>
 
 <h3 align="center">
  Connect with me:
