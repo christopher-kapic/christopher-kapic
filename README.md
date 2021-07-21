@@ -2,6 +2,8 @@
 
 [![Website](https://img.shields.io/website?label=blog.kapic.io&style=for-the-badge&url=https%3A%2F%2Fblog.kapic.io)](https://blog.kapic.io?ref=github)
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=christopher-kapic&show_icons=true&theme=tokyonight)
+
 I am a math and computer science at Northwestern University. I love building applications, especially with Node and React, but I am experimenting with other technologies as well. I'm currently preparing to graduate, and will soon be looking at developer jobs. If you are hiring, feel free to take a look at my [resume](https://cdn.jsdelivr.net/gh/christopher-kapic/christopher-kapic/resumes/resume[1].pdf) and reach out to me.
 
 ### Things I am passionate about
@@ -60,9 +62,6 @@ An open-source collection of definitions and theorems from math. -->
 ➡️ [more blog posts...](https://blog.kapic.io)
 
 <br>
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=christopher-kapic&show_icons=true&theme=radical)
-
 
 ### Connect with me:
 
