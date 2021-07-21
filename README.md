@@ -1,9 +1,12 @@
-### Hi there, I'm Christopher Kapic! 👋
-<div style="text-align: center"><h3>Hi there, I'm Christopher Kapic! 👋</h3></div>
+<h3 align="center">
+  Hi there, I'm Christopher Kapic! 👋
+</h3>
+
+<p align="center">
+ <img src="https://github-readme-stats.vercel.app/api?username=christopher-kapic&show_icons=true&theme=tokyonight"/>
+</p>
 
 [![Website](https://img.shields.io/website?label=blog.kapic.io&style=for-the-badge&url=https%3A%2F%2Fblog.kapic.io)](https://blog.kapic.io?ref=github)
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=christopher-kapic&show_icons=true&theme=tokyonight)
 
 I am a math and computer science at Northwestern University. I love building applications, especially with Node and React, but I am experimenting with other technologies as well. I'm currently preparing to graduate, and will soon be looking at developer jobs. If you are hiring, feel free to take a look at my [resume](https://cdn.jsdelivr.net/gh/christopher-kapic/christopher-kapic/resumes/resume[1].pdf) and reach out to me.
 
@@ -64,9 +67,12 @@ An open-source collection of definitions and theorems from math. -->
 
 <br>
 
-### Connect with me:
-
-[<img align="left" alt="blog.kapic.io" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />](https://blog.kapic.io)
-[<img align="left" alt="Christopher Kapic | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />](https://www.youtube.com/channel/UCuXgDzDJhNAwvzvc62GnYwA?view_as=subscriber)
-[<img align="left" alt="Christopher Kapic | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/christopher-kapic/)
-[<img align="left" alt="Christopher Kapic | E-Mail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />](mailto:christopherkapic@gmail.com)
+<h3 align="center">
+ Connect with me:
+</h3>
+<p align="center">
+ <a href="https://blog.kapic.io"><img align="center" alt="blog.kapic.io" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" /></a>
+  <a href="https://www.youtube.com/channel/UCuXgDzDJhNAwvzvc62GnYwA"><img align="center" alt="YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" /></a>
+ <a href="https://linkedin.com/in/christopher-kapic"><img align="center" alt="Christopher Kapic | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a>
+ <a href="mailto:christopherkapic@gmail.com"><img align="center" alt="Christopher Kapic | E-Mail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" /></a>
+</p>
