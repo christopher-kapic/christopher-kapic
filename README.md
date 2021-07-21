@@ -42,6 +42,8 @@ An open-source collection of definitions and theorems from math. -->
  - [Fireship](https://fireship.io/) - Jeff... you did well. Thank you.
  - [Filebase](https://filebase.com/) - Blockchain S3 ($5.99/TB/Month)
  - [MicroConf](https://www.youtube.com/channel/UCHoBKQDRkJcOY2BO47q5Ruw) - Learn about bootstrapped SaaS startups.
+ - [state-pool](https://github.com/yezyilomo/state-pool) - Simple global state in React.
+ - [Scale](https://2.flexiple.com/scale/multi-color-illustrations) - Free generic vector graphics.
 
 <br>
 
