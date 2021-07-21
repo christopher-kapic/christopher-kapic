@@ -41,6 +41,7 @@ An open-source collection of definitions and theorems from math. -->
  - [Vultr](https://www.vultr.com/?ref=8752906) (referral link) - The cloud host I use for the majority of my server needs.
  - [Fireship](https://fireship.io/) - Jeff... you did well. Thank you.
  - [Filebase](https://filebase.com/) - Blockchain S3 ($5.99/TB/Month)
+ - [MicroConf](https://www.youtube.com/channel/UCHoBKQDRkJcOY2BO47q5Ruw) - Learn about bootstrapped SaaS startups.
 
 <br>
 
