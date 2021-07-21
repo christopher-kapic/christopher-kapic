@@ -60,7 +60,7 @@ An open-source collection of definitions and theorems from math. -->
 ➡️ [more blog posts...](https://blog.kapic.io)
 
 <br>
-![Christopher Kapic github stats](https://github-readme-stats.vercel.app/api?username=christopher-kapic&show_icons=true&theme=synthwave)
+[![Christopher's GitHub stats](https://github-readme-stats.vercel.app/api?username=christopher-kapic)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Connect with me:
 
