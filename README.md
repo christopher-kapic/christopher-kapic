@@ -50,6 +50,7 @@ An open-source collection of definitions and theorems from math. -->
  - [MicroConf](https://www.youtube.com/channel/UCHoBKQDRkJcOY2BO47q5Ruw) - Learn about bootstrapped SaaS startups.
  - [state-pool](https://github.com/yezyilomo/state-pool) - Simple global state in React.
  - [Scale](https://2.flexiple.com/scale/multi-color-illustrations) - Free generic vector graphics.
+ - [btw.so's Open Source Alternatives](https://www.btw.so/open-source-alternatives) - Open Source Alternatives to commercial products.
 
 <br>
 
