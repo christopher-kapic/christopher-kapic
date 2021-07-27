@@ -57,11 +57,11 @@ An open-source collection of definitions and theorems from math. -->
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [There is a better alternative for serverless caching](https://dev.to/christopherkapic/there-is-a-better-alternative-for-serverless-caching-27n0)
 - [How to authorize requests for a private API behind a Netlify app](https://dev.to/christopherkapic/how-to-authorize-requests-for-a-private-api-behind-a-netlify-app-4gpc)
 - [The case for a CapRover Instance](https://dev.to/christopherkapic/the-case-for-a-caprover-instance-48h1)
 - [How to deploy a NodeJS server with NGINX on a VPS](https://dev.to/christopherkapic/how-to-deploy-a-nodejs-server-with-nginx-on-a-vps-43mb)
 - [How to deploy a Redis instance](https://dev.to/christopherkapic/how-to-deploy-a-redis-instance-275c)
-- [Technologies I want to learn this summer](https://dev.to/christopherkapic/technologies-i-want-to-learn-this-summer-3n0j)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://blog.kapic.io)
