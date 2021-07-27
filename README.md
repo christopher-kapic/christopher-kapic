@@ -21,9 +21,9 @@ I am a math and computer science at Northwestern University. I love building app
 #### [Blog](https://blog.kapic.io/) 🖋 -->
 
 ### Current Projects
+ - [Gitforks](https://gitforks.com/) - A website to simplify the process of comparing forks of a repository on Github.
  - [TickerTab](https://tickertab.io/) 📈 -
 A website to calculate the hypothetical price of stock options using an intuitive graphing interface. Developed with Gatsby (React), Netlify, NodeJS + Express + Redis (private API), and FaunaDB.
-
  - [iMessage Client](https://github.com/christopher-kapic/imessageclient) -
 A third party client for iMessage (for use as a PWA). Eventually will be deployable to CapRover.
 
