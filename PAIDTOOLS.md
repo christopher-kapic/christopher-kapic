@@ -17,7 +17,7 @@ I am making this file to keep track of where I am spending money for development
  - [Netlify](https://netlify.com/) - Free plan
  - [Cloudflare](https://cloudflare.com/) - Free plan
  - Domains
-    - Three .com domains - $3/month (total)
+    - Four .com domains - $4/month (total)
     - Two .io domains - $10/month (total)
 
-#### Total: $79/month | $948/year
+#### Total: $80/month | $960/year
