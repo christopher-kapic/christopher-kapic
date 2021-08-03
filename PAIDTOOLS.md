@@ -6,7 +6,7 @@ I am making this file to keep track of where I am spending money for development
  - [Plausible](https://plausible.io/) - $6/month Privacy-protecting web analytics
  - [DigitalOcean](https://digitalocean.com/) - $40/month
     - ~~[Mastodon](https://marketplace.digitalocean.com/apps/mastodon) - $5/month federated social media~~
-    - [CapRover](https://marketplace.digitalocean.com/apps/caprover) - $~~15~~5/month test server
+    - [CapRover](https://marketplace.digitalocean.com/apps/caprover) - ~~$15/month~~ $5/month test server
     - [CapRover](https://marketplace.digitalocean.com/apps/caprover) - $20/month personal server
  - [Vultr](https://vultr.com/) - $15/month
     - [NextCloud](https://nextcloud.com/) - $10/month
