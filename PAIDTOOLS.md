@@ -3,6 +3,7 @@
 I am making this file to keep track of where I am spending money for development as well as share the tools that I find valuable enough to pay for.
 
  - [Medium](https://medium.com/) - I actually don't like Medium that much, but a lot of developers have their blogs there so I do pay $5/month in order to read their articles. I only go on Medium via search results (that is, I never go directly to medium.com).
+ - [Plausible](https://plausible.io/) - $6/month Privacy-protecting web analytics
  - [DigitalOcean](https://digitalocean.com/) - $40/month
     - [Mastodon](https://marketplace.digitalocean.com/apps/mastodon) - $5/month federated social media
     - [CapRover](https://marketplace.digitalocean.com/apps/caprover) - $15/month test server
@@ -19,4 +20,4 @@ I am making this file to keep track of where I am spending money for development
     - Three .com domains - $3/month (total)
     - Two .io domains - $10/month (total)
 
-#### Total: $73/month | $876/year
+#### Total: $79/month | $948/year
