@@ -20,4 +20,4 @@ I am making this file to keep track of where I am spending money for development
     - Four .com domains - $4/month (total)
     - Two .io domains - $10/month (total)
 
-#### Total: $80/month | $960/year
+#### Total: $60/month | $720/year
