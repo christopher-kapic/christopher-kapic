@@ -56,6 +56,7 @@ An open-source collection of definitions and theorems from math. -->
  - [StackBlitz](https://stackblitz.com/) - Develop in the cloud with hot reload across all devices.
  - [CapRover for Production Deployment](https://caprover.com/) - I already use CapRover for a self-hosted app server; now I am experimenting with using it to deploy docker containers instead of alternatives like Google Cloud Run or Kubernetes. Ideally, I can host with CapRover for less money than with other cloud solutions. Under the hood this uses [Docker Swarm](https://docs.docker.com/engine/swarm/).
  - [Angular](https://angular.io/) and [Django](https://www.djangoproject.com/) - Preparing for a job interview.
+ - [OpenReplay](https://openreplay.com/index.html) - Open source user session replay ([LogRocket](https://logrocket.com/) alternative).
 
 <br>
 
