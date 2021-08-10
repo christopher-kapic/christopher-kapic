@@ -14,6 +14,7 @@ I am a math and computer science student at Northwestern University. I love buil
  - Learning new technologies
  - Building web/mobile applications
  - Open source projects
+   - Simplifying deployment with [CapRover](https://caprover.com/)
  - Software startups
 
 <!-- #### [Resume](https://blog.kapic.io/assets/PDF/Christopher_Kapic_Resume_(Lucario).pdf) | ([Print Version](https://storage.googleapis.com/christopherkapicpdfs01/resume_kapic.pdf)) 📝
