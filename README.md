@@ -22,7 +22,6 @@ I am a math and computer science student at Northwestern University. I love buil
 #### [Blog](https://blog.kapic.io/) 🖋 -->
 
 ### Current Projects
- - [Gitforks](https://gitforks.com/) - A website to simplify the process of comparing forks of a repository on Github.
  - [TickerTab](https://tickertab.netlify.app/) 📈 -
 A website to calculate the hypothetical price of stock options using an intuitive graphing interface. Developed with Gatsby (React), Netlify, NodeJS + Express + Redis (private API), and FaunaDB.
  - [iMessage Client](https://github.com/christopher-kapic/imessageclient) -
@@ -60,6 +59,9 @@ An open-source collection of definitions and theorems from math. -->
  - [OpenReplay](https://openreplay.com/index.html) - Open source user session replay ([LogRocket](https://logrocket.com/) alternative).
 
 <br>
+
+### Old Projects
+ - [Gitforks](https://gitforks.com/) - A website to simplify the process of comparing forks of a repository on Github.
 
 ### 📕 Latest Blog Posts
 
