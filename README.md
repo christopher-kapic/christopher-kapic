@@ -9,7 +9,7 @@
 I am a math and computer science student at Northwestern University. I love building applications, especially with Node and React, but I am experimenting with other technologies as well. I'm currently preparing to graduate, and will soon be looking at developer jobs. If you are hiring, feel free to take a look at my [resume](https://cdn.jsdelivr.net/gh/christopher-kapic/christopher-kapic/resumes/resume[1].pdf) and reach out to me.
 
 [![Developer Blog](https://img.shields.io/website?label=blog.kapic.io&url=https%3A%2F%2Fblog.kapic.io)](https://blog.kapic.io?ref=github)
-[![Mastodon Follow](https://img.shields.io/mastodon/follow/2?domain=https%3A%2F%2Fmastodon.kapic.io&style=social)](https://mastodon.kapic.io/@christopher)
+<!-- [![Mastodon Follow](https://img.shields.io/mastodon/follow/2?domain=https%3A%2F%2Fmastodon.kapic.io&style=social)](https://mastodon.kapic.io/@christopher) -->
 [![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UCuXgDzDJhNAwvzvc62GnYwA?style=social)](https://www.youtube.com/channel/UCuXgDzDJhNAwvzvc62GnYwA)
 
 ### Things I am passionate about
