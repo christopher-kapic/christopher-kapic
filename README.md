@@ -68,7 +68,7 @@ An open-source collection of definitions and theorems from math. -->
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Arch Linux Installation Tutorial (Tested on T530)](https://dev.to/christopherkapic/arch-linux-installation-tutorial-tested-on-t530-kh7)
+- [Arch Linux Installation Tutorial &lpar;Tested on T530&rpar;](https://dev.to/christopherkapic/arch-linux-installation-tutorial-tested-on-t530-kh7)
 - [My Thoughts on SuperTokens](https://dev.to/christopherkapic/my-thoughts-on-supertokens-2omm)
 - [Use Gitforks.com to Compare Forks of a Repo](https://dev.to/christopherkapic/use-gitforks-com-to-compare-forks-of-a-repo-13p3)
 - [There is a better alternative for serverless caching](https://dev.to/christopherkapic/there-is-a-better-alternative-for-serverless-caching-27n0)
