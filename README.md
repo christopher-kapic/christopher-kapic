@@ -8,8 +8,6 @@
 
 I am a math and computer science student at Northwestern University. I love building applications, especially with Node and React, but I am experimenting with other technologies as well. I'm currently preparing to graduate, and will soon be looking at developer jobs. If you are hiring, feel free to take a look at my [resume](https://cdn.jsdelivr.net/gh/christopher-kapic/christopher-kapic/resumes/resume[1].pdf) and reach out to me.
 
-[![Developer Blog](https://img.shields.io/website?label=blog.kapic.io&url=https%3A%2F%2Fblog.kapic.io)](https://blog.kapic.io?ref=github)
-<!-- [![Mastodon Follow](https://img.shields.io/mastodon/follow/2?domain=https%3A%2F%2Fmastodon.kapic.io&style=social)](https://mastodon.kapic.io/@christopher) -->
 [![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UCuXgDzDJhNAwvzvc62GnYwA?style=social)](https://www.youtube.com/channel/UCuXgDzDJhNAwvzvc62GnYwA)
 
 ### Things I am passionate about
@@ -18,27 +16,6 @@ I am a math and computer science student at Northwestern University. I love buil
  - Open source projects
    - Simplifying deployment with [CapRover](https://caprover.com/)
  - Software startups
-
-<!-- #### [Resume](https://blog.kapic.io/assets/PDF/Christopher_Kapic_Resume_(Lucario).pdf) | ([Print Version](https://storage.googleapis.com/christopherkapicpdfs01/resume_kapic.pdf)) 📝
-
-#### [Blog](https://blog.kapic.io/) 🖋 -->
-
-### Current Projects
- - [TickerTab](https://tickertab.netlify.app/) 📈 -
-A website to calculate the hypothetical price of stock options using an intuitive graphing interface. Developed with Gatsby (React), Netlify, NodeJS + Express + Redis (private API), and FaunaDB.
- - [iMessage Client](https://github.com/christopher-kapic/imessageclient) -
-A third party client for iMessage (for use as a PWA). Eventually will be deployable to CapRover.
-
-
-<!-- #### [Kapic Math](https://math.christopherkapic.com/) 💯
-An open-source collection of definitions and theorems from math. -->
-
-<br>
-
-<!-- ## My First Project
-[Cricky Calculator](https://simmer.io/@cricky14/cricky-calculator) 🧮 is a linear transformation demonstration tool inspired by [3Blue1Brown](https://www.youtube.com/c/3blue1brown) created with Unity (back when I had no idea what I was doing). This is a messy project, but it has a special place in my heart as it was the project through which I was introduced to coding. -->
-
-<!-- <br> -->
 
 ### These are a few of my favorite things
  - [favicon.io](https://favicon.io/) - Free favicon generator.
@@ -54,28 +31,8 @@ An open-source collection of definitions and theorems from math. -->
  - [Scale](https://2.flexiple.com/scale/multi-color-illustrations) - Free generic vector graphics.
  - [btw.so's Open Source Alternatives](https://www.btw.so/open-source-alternatives) - Open Source Alternatives to commercial products.
 
-### I am experimenting with these things
- - [StackBlitz](https://stackblitz.com/) - Develop in the cloud with hot reload across all devices.
- - [CapRover for Production Deployment](https://caprover.com/) - I already use CapRover for a self-hosted app server; now I am experimenting with using it to deploy docker containers instead of alternatives like Google Cloud Run or Kubernetes. Ideally, I can host with CapRover for less money than with other cloud solutions. Under the hood this uses [Docker Swarm](https://docs.docker.com/engine/swarm/).
- - [Angular](https://angular.io/) and [Django](https://www.djangoproject.com/) - Preparing for a job interview.
- - [OpenReplay](https://openreplay.com/index.html) - Open source user session replay ([LogRocket](https://logrocket.com/) alternative).
-
-<br>
-
 ### Old Projects
  - [Gitforks](https://gitforks.com/) - A website to simplify the process of comparing forks of a repository on Github.
-
-### 📕 Latest Blog Posts
-
-<!-- BLOG-POST-LIST:START -->
-- [Arch Linux Installation Tutorial &lpar;Tested on T530&rpar;](https://dev.to/christopherkapic/arch-linux-installation-tutorial-tested-on-t530-kh7)
-- [My Thoughts on SuperTokens](https://dev.to/christopherkapic/my-thoughts-on-supertokens-2omm)
-- [Use Gitforks.com to Compare Forks of a Repo](https://dev.to/christopherkapic/use-gitforks-com-to-compare-forks-of-a-repo-13p3)
-- [There is a better alternative for serverless caching](https://dev.to/christopherkapic/there-is-a-better-alternative-for-serverless-caching-27n0)
-- [How to authorize requests for a private API behind a Netlify app](https://dev.to/christopherkapic/how-to-authorize-requests-for-a-private-api-behind-a-netlify-app-4gpc)
-<!-- BLOG-POST-LIST:END -->
-
-➡️ [more blog posts...](https://blog.kapic.io)
 
 
 <h3 align="center">
