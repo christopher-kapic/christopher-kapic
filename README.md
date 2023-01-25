@@ -39,7 +39,7 @@ I am a math and computer science student at Northwestern University. I love buil
  Connect with me:
 </h3>
 <p align="center">
- <a href="https://blog.kapic.io"><img align="center" alt="blog.kapic.io" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" /></a>
+ <a href="https://christopherkapic.com"><img align="center" alt="christopherkapic.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" /></a>
   <a href="https://www.youtube.com/channel/UCuXgDzDJhNAwvzvc62GnYwA"><img align="center" alt="YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" /></a>
  <a href="https://linkedin.com/in/christopher-kapic"><img align="center" alt="Christopher Kapic | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a>
  <a href="mailto:christopherkapic@gmail.com"><img align="center" alt="Christopher Kapic | E-Mail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" /></a>
